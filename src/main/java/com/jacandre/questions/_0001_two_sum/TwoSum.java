@@ -22,8 +22,8 @@ public class TwoSum {
         return null;
     }
 
-    public int[] twoSumHashMap(int[] nums, int target) {
-        // Potential optimised solution
-        return null;
-    }
+//    public int[] twoSumHashMap(int[] nums, int target) {
+//        // Potential optimised solution
+//        return null;
+//    }
 }
