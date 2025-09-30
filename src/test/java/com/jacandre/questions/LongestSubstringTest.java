@@ -1,7 +1,6 @@
 package com.jacandre.questions;
 
 import com.jacandre.questions._0003_longest_substring.LongestSubstring;
-import com.jacandre.questions._2221_triangular_sum_of_array.TriangleSumOfArray;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
