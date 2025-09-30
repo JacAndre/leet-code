@@ -2,10 +2,6 @@ package com.jacandre.questions._2221_triangular_sum_of_array;
 
 import lombok.extern.slf4j.Slf4j;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 /**
  * You are given a 0-indexed integer array nums, where nums[i] is a digit between 0 and 9 (inclusive).
  *
