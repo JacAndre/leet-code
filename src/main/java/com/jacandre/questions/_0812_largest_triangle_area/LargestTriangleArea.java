@@ -1,4 +1,4 @@
-package com.jacandre.questions._812_largest_triangle_area;
+package com.jacandre.questions._0812_largest_triangle_area;
 
 import lombok.extern.slf4j.Slf4j;
 

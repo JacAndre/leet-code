@@ -1,6 +1,6 @@
 package com.jacandre.questions;
 
-import com.jacandre.questions._611_valid_triangle_number.ValidTriangleNumber;
+import com.jacandre.questions._0611_valid_triangle_number.ValidTriangleNumber;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.junit.jupiter.MockitoExtension;

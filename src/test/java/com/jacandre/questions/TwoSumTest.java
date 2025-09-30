@@ -1,6 +1,6 @@
 package com.jacandre.questions;
 
-import com.jacandre.questions._001_two_sum.TwoSum;
+import com.jacandre.questions._0001_two_sum.TwoSum;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

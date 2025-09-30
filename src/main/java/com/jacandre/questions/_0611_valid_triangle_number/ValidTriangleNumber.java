@@ -1,4 +1,4 @@
-package com.jacandre.questions._611_valid_triangle_number;
+package com.jacandre.questions._0611_valid_triangle_number;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,6 +1,6 @@
 package com.jacandre.questions;
 
-import com.jacandre.questions._812_largest_triangle_area.LargestTriangleArea;
+import com.jacandre.questions._0812_largest_triangle_area.LargestTriangleArea;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

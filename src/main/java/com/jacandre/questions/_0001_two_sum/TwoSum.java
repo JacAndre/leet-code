@@ -1,9 +1,6 @@
-package com.jacandre.questions._001_two_sum;
+package com.jacandre.questions._0001_two_sum;
 
 import lombok.extern.slf4j.Slf4j;
-
-import java.util.ArrayList;
-import java.util.Arrays;
 
 /**
  * Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.

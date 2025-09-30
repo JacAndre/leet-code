@@ -1,4 +1,4 @@
-package com.jacandre.questions._002_add_two_numbers;
+package com.jacandre.questions._0002_add_two_numbers;
 
 import lombok.extern.slf4j.Slf4j;
 

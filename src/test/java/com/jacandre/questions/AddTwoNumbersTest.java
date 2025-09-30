@@ -1,7 +1,7 @@
 package com.jacandre.questions;
 
-import com.jacandre.questions._002_add_two_numbers.AddTwoNumbers;
-import com.jacandre.questions._002_add_two_numbers.ListNode;
+import com.jacandre.questions._0002_add_two_numbers.AddTwoNumbers;
+import com.jacandre.questions._0002_add_two_numbers.ListNode;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.junit.jupiter.MockitoExtension;
